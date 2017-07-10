@@ -13,7 +13,7 @@ public class MovieApp {
             System.out.println("Which Category of moive would you like to watch???");
             System.out.println("");
             System.out.println("Please select: ");
-            System.out.println("Scifi, Comedy, Drama, Action, Musical");
+            System.out.println("Comedy, Drama, Action, Musical");
 
 
             Scanner scan = new Scanner(System.in);
