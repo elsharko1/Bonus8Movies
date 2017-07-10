@@ -38,6 +38,7 @@ public class Movies {
 
     @Override
     public String toString() {
+
         return title;
     }
 
